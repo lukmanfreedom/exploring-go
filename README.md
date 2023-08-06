@@ -16,4 +16,6 @@ Inspired by [60 Days of go](https://github.com/cassiobotaro/60-days-of-go) repos
 
 ## App Ideas
 
-coming soon!
+| Name                                 | Short Description           |
+| ------------------------------------ | --------------------------- |
+| [Bin2Dec!](./App%20Ideas/Bin2Dec/)   | Binary Converter to Decimal |
