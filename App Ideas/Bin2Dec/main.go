@@ -9,7 +9,7 @@ import (
 )
 
 func validateInput(input string) error {
-	inputType := regexp.MustCompile(`[01]+$`).MatchString(input)
+	inputType := regexp.MustCompile(`^[01]+$`).MatchString(input)
 	inputLen := len([]rune(input))
 
 	if !inputType {
