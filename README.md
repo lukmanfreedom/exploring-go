@@ -10,9 +10,10 @@ Inspired by [60 Days of go](https://github.com/cassiobotaro/60-days-of-go) repos
 
 ## Learn
 
-| Name                                     | Short Description    |
-| ---------------------------------------- | -------------------- |
-| [Hello World!](./Learn/Hello%20World/)   | Hello, World!        |
+| Name                                     | Short Description                          |
+| ---------------------------------------- | ------------------------------------------ |
+| [Hello World!](./Learn/Hello%20World/)   | Hello, World!                              |
+| [Interface!](./Learn/Interfaces/)        | A simple example of using interface        |
 
 ## App Ideas
 
