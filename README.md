@@ -12,8 +12,9 @@ Inspired by [60 Days of go](https://github.com/cassiobotaro/60-days-of-go) repos
 
 | Name                                     | Short Description                          |
 | ---------------------------------------- | ------------------------------------------ |
-| [Hello World!](./Learn/Hello%20World/)   | Hello, World!                              |
-| [Interface!](./Learn/Interfaces/)        | A simple example of using interface        |
+| [Hello World!](./Learn/hello-world/)   | Hello, World!                              |
+| [Interface!](./Learn/interfaces/)        | A simple example of using interface        |
+| [Database Connection!](./Learn/database-connection/)        | Connecting Go to Database        |
 
 ## App Ideas
 
